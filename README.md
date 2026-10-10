@@ -60,14 +60,14 @@
 
 ## Example Images
 
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin01.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin02.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin03.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin04.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin05.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin06.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin07.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin08.png)
+![](https://img.soybeanjs.dev/soybean-admin01.png)
+![](https://img.soybeanjs.dev/soybean-admin02.png)
+![](https://img.soybeanjs.dev/soybean-admin03.png)
+![](https://img.soybeanjs.dev/soybean-admin04.png)
+![](https://img.soybeanjs.dev/soybean-admin05.png)
+![](https://img.soybeanjs.dev/soybean-admin06.png)
+![](https://img.soybeanjs.dev/soybean-admin07.png)
+![](https://img.soybeanjs.dev/soybean-admin08.png)
 
 
 ## Usage
@@ -128,18 +128,18 @@ It is recommended to use the latest version of Chrome in development for a bette
 
 ## Communication
 
-| Communication | Link or QR Code |
-| --- | --- |
-| GitHub Issue | [Link](https://github.com/honghuangdc/soybean-admin/issues) |
-| Discord | [Link](https://discord.gg/mEFKh8xm9y) |
-| QQ Group<br />Technical communication, questions and answers | <img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/qq.jpeg" width="160" /> |
-| Soybean's WeChat <br />Business consulting, cooperation, project architecture, one-to-one guidance, etc. | <img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/wechat.jpeg" width="160" /> |
+`SoybeanAdmin` is a completely open source and free project, helping developers to develop medium and large-scale management systems more conveniently. It provides FeiShu communication groups. If you have any questions, please feel free to ask in the group.
+
+  <div>
+  	<p>FeiShu Group</p>
+    <img src="https://img.soybeanjs.dev/soybean-admin-feishu.png?v=202610092025" style="width:200px" />
+  </div>
 
 ## Donate
 
 If you think this project is helpful to you, you can buy Soybean a drink to show your support, Soybean open source power can not be separated from your support and encouragement.
 
-<img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/donation.png" width="480" />
+<img src="https://img.soybeanjs.dev/donation.png" width="480" />
 
 ## License
 

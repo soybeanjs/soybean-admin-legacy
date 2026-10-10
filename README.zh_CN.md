@@ -59,14 +59,14 @@
 
 ## 示例图片
 
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin01.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin02.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin03.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin04.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin05.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin06.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin07.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin08.png)
+![](https://img.soybeanjs.dev/soybean-admin01.png)
+![](https://img.soybeanjs.dev/soybean-admin02.png)
+![](https://img.soybeanjs.dev/soybean-admin03.png)
+![](https://img.soybeanjs.dev/soybean-admin04.png)
+![](https://img.soybeanjs.dev/soybean-admin05.png)
+![](https://img.soybeanjs.dev/soybean-admin06.png)
+![](https://img.soybeanjs.dev/soybean-admin07.png)
+![](https://img.soybeanjs.dev/soybean-admin08.png)
 
 
 ## 使用
@@ -128,18 +128,18 @@ pnpm build
 
 ## 交流
 
-| 交流方式 | 链接或二维码 |
-| --- | --- |
-| GitHub Issue | [地址](https://github.com/honghuangdc/soybean-admin/issues) |
-| Discord | [地址](https://discord.gg/mEFKh8xm9y) |
-| QQ 群<br />技术交流、问题请教 | <img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/qq.jpeg" width="160" /> |
-| Soybean 的微信 <br />业务咨询、合作、项目架构、一对一指导等 | <img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/wechat.jpeg" width="160" /> |
+`SoybeanAdmin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时提供飞书群供大家交流，使用问题欢迎在群内提问。
+
+<div>
+  <p>飞书群</p>
+  <img src="https://img.soybeanjs.dev/soybean-admin-feishu.png?v=202610092025" style="width:200px" />
+</div>
 
 ## 捐赠
 
 如果您觉得本项目对您有所帮助，欢迎您以买杯咖啡的方式来支持 Soybean。您的支持和鼓励是 Soybean 持续开源的重要动力。
 
-<img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/donation.png" width="480" />
+<img src="https://img.soybeanjs.dev/donation.png" width="480" />
 
 ## 开源协议
 
